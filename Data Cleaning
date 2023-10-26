@@ -1,0 +1,8 @@
+Data Cleaning
+
+1) Check for null values in every column.
+2) Make the gender column consistent. Replaced 'M' values with 'Men' and 'W' values with 'Women'
+3) Check that age column has all numerical values.
+4) Made the values in the Qty column consistent. Replace 'one' with '1' and replaced 'two' with '2'
+5) Check that zipcode column has all numerical values
+6) Made sure that all the dates in the Date in the 'Date' column are in the absolutely same format.
